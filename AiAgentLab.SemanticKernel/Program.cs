@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Using the SemanticKernelAgent namespace
+namespace SemanticKernelAgent
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Console.WriteLine("Hello, SemanticKernelAgent!");
+		}
+	}
+}
